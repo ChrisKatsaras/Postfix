@@ -55,4 +55,4 @@ float pop(char userString,float number2,float number1)
 		temp = number1/number2;
 	}
 	return temp; /*Return the value of the operation on the two numbers*/
-}# Postfix
+}
